@@ -1,7 +1,7 @@
 # Kids-Jeopardy
 Web implementation of popular quiz show for kids (using Bootstrap 4, Flexbox, and Javascript)
 
-[Live Demo](http://romanapps.com/projects/KidsJeopardy/index.html)
+[Live Demo](https://timurson.github.io/projects/KidsJeopardy/index.html)
 
 
 ![Alt Text](https://github.com/timurson/Kids-Jeopardy/blob/master/Screenshot.PNG)
